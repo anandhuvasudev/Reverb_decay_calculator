@@ -11,7 +11,7 @@ A modern, cross-platform desktop GUI application built with Python and CustomTki
 Here's the calculator in action, showing both dark and light themes.
 
 ![App Screenshot](assets/delay-calculator-screenshot.png)
-*(You need to replace this with your own screenshot!)*
+
 
 ## Features
 
