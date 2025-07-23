@@ -163,7 +163,7 @@ class DelayCalculatorApp(ctk.CTk):
                 self.after(1500, lambda b=button, t=original_text, c=original_color: b.configure(text=t, fg_color=c))
                 break
 
-
+#@anandhu_vasudev
 if __name__ == "__main__":
     app = DelayCalculatorApp()
     app.mainloop()
