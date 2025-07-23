@@ -6,8 +6,6 @@
 
 A modern, cross-platform desktop GUI application built with Python and CustomTkinter to calculate musical delay and pre-delay times (in milliseconds and Hertz) from a given BPM. This tool is designed for music producers, audio engineers, and sound designers who need to quickly sync their effects to their project's tempo.
 
-## Screenshot
-
 Here's the calculator in action, showing both dark and light themes.
 
 ![App Screenshot](assets/delay-calculator-screenshot.png)
